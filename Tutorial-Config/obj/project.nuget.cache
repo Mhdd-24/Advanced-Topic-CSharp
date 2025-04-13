@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkQ3L5+FKyU=",
+  "success": true,
+  "projectFilePath": "/Users/mhdd24/Documents/Advanced-Topic-CSharp/Tutorial-Config/Tutorial-Config.csproj",
+  "expectedPackageFiles": [
+    "/Users/mhdd24/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/mhdd24/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
